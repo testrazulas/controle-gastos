@@ -1,0 +1,26 @@
+{
+  "controleGastosApp": {
+    "despesas": {
+      "home": {
+        "title": "Despesas",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Despesas",
+        "createOrEditLabel": "Criar ou editar Despesas",
+        "notFound": "Nenhum Despesas encontrado"
+      },
+      "created": "Um novo Despesas foi criado com o identificador {{ param }}",
+      "updated": "Um Despesas foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Despesas foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Despesas {{ id }}?"
+      },
+      "detail": {
+        "title": "Despesas"
+      },
+      "id": "ID",
+      "valor": "Valor",
+      "categoria": "Categoria",
+      "data": "Data"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "controleGastosApp": {
+    "despesas": {
+      "home": {
+        "title": "Despesas",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Despesas",
+        "createOrEditLabel": "Create or edit a Despesas",
+        "notFound": "No Despesas found"
+      },
+      "created": "A new Despesas is created with identifier {{ param }}",
+      "updated": "A Despesas is updated with identifier {{ param }}",
+      "deleted": "A Despesas is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Despesas {{ id }}?"
+      },
+      "detail": {
+        "title": "Despesas"
+      },
+      "id": "ID",
+      "valor": "Valor",
+      "categoria": "Categoria",
+      "data": "Data"
+    }
+  }
+}

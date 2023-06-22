@@ -8,6 +8,7 @@
       "entities": {
         "main": "Entities",
         "controleGastos": "Controle Gastos",
+        "despesas": "Despesas",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

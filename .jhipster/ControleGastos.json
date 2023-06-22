@@ -1,0 +1,16 @@
+{
+  "changelogDate": "20230622142031",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "mes",
+      "fieldType": "LocalDate"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "name": "ControleGastos",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

@@ -1,0 +1,20 @@
+{
+  "changelogDate": "20230622142612",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "nome",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "valor",
+      "fieldType": "Double"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "name": "Cartoes",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

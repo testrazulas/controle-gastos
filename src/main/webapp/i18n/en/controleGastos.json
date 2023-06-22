@@ -1,0 +1,24 @@
+{
+  "controleGastosApp": {
+    "controleGastos": {
+      "home": {
+        "title": "Controle Gastos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Controle Gastos",
+        "createOrEditLabel": "Create or edit a Controle Gastos",
+        "notFound": "No Controle Gastos found"
+      },
+      "created": "A new Controle Gastos is created with identifier {{ param }}",
+      "updated": "A Controle Gastos is updated with identifier {{ param }}",
+      "deleted": "A Controle Gastos is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Controle Gastos {{ id }}?"
+      },
+      "detail": {
+        "title": "Controle Gastos"
+      },
+      "id": "ID",
+      "mes": "Mes"
+    }
+  }
+}

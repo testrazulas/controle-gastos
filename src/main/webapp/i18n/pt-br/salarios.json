@@ -1,0 +1,26 @@
+{
+  "controleGastosApp": {
+    "salarios": {
+      "home": {
+        "title": "Salarios",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Salarios",
+        "createOrEditLabel": "Criar ou editar Salarios",
+        "notFound": "Nenhum Salarios encontrado"
+      },
+      "created": "Um novo Salarios foi criado com o identificador {{ param }}",
+      "updated": "Um Salarios foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Salarios foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Salarios {{ id }}?"
+      },
+      "detail": {
+        "title": "Salarios"
+      },
+      "id": "ID",
+      "valor": "Valor",
+      "nome": "Nome",
+      "dataRecebimento": "Data Recebimento"
+    }
+  }
+}

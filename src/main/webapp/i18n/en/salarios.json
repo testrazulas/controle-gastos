@@ -1,0 +1,26 @@
+{
+  "controleGastosApp": {
+    "salarios": {
+      "home": {
+        "title": "Salarios",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Salarios",
+        "createOrEditLabel": "Create or edit a Salarios",
+        "notFound": "No Salarios found"
+      },
+      "created": "A new Salarios is created with identifier {{ param }}",
+      "updated": "A Salarios is updated with identifier {{ param }}",
+      "deleted": "A Salarios is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Salarios {{ id }}?"
+      },
+      "detail": {
+        "title": "Salarios"
+      },
+      "id": "ID",
+      "valor": "Valor",
+      "nome": "Nome",
+      "dataRecebimento": "Data Recebimento"
+    }
+  }
+}

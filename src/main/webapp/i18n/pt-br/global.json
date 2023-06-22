@@ -10,6 +10,7 @@
         "controleGastos": "Controle Gastos",
         "despesas": "Despesas",
         "cartoes": "Cartoes",
+        "salarios": "Salarios",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

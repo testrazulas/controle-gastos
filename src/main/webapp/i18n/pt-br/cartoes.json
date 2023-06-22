@@ -1,0 +1,25 @@
+{
+  "controleGastosApp": {
+    "cartoes": {
+      "home": {
+        "title": "Cartoes",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Cartoes",
+        "createOrEditLabel": "Criar ou editar Cartoes",
+        "notFound": "Nenhum Cartoes encontrado"
+      },
+      "created": "Um novo Cartoes foi criado com o identificador {{ param }}",
+      "updated": "Um Cartoes foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Cartoes foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Cartoes {{ id }}?"
+      },
+      "detail": {
+        "title": "Cartoes"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "valor": "Valor"
+    }
+  }
+}

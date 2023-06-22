@@ -1,0 +1,24 @@
+{
+  "controleGastosApp": {
+    "controleGastos": {
+      "home": {
+        "title": "Controle Gastos",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Controle Gastos",
+        "createOrEditLabel": "Criar ou editar Controle Gastos",
+        "notFound": "Nenhum Controle Gastos encontrado"
+      },
+      "created": "Um novo Controle Gastos foi criado com o identificador {{ param }}",
+      "updated": "Um Controle Gastos foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Controle Gastos foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Controle Gastos {{ id }}?"
+      },
+      "detail": {
+        "title": "Controle Gastos"
+      },
+      "id": "ID",
+      "mes": "Mes"
+    }
+  }
+}
